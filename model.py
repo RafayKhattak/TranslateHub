@@ -39,7 +39,7 @@ def en_to_ar(text):
 
 # Translation function for English to Japanese
 def en_to_ja(text):
-    return translate_text(text, 'ja')
+    return translate_text(text, 'jap')
 
 # Translation function for English to Indonesian
 def en_to_id(text):
